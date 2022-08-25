@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091071476886",
+    "project_id": "magadhwork",
+    "storage_bucket": "magadhwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091071476886:android:b4351e6f5fe64d73962eb7",
+        "android_client_info": {
+          "package_name": "com.example.instareels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091071476886-7jlf0ce7a8m5bmm1n3joai5os3fu707o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnkevL1DJFz1szG3fR0Rw1DzbC4LhtLhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091071476886-7jlf0ce7a8m5bmm1n3joai5os3fu707o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
